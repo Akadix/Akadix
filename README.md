@@ -19,9 +19,9 @@ I enjoy building applications and interactive projects that are both functional 
 
 **Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery  
 **Backend:** Node.js · PHP · CodeIgniter · MySQL  
+**Tools:** Git · GitHub · VS Code · WordPress (Theming)
 **Game Dev:** Unity (C#)  
 **Design:** Figma · Photoshop · Illustrator  
-**Tools:** Git · GitHub · VS Code · WordPress (Theming)
 
 ---
 
