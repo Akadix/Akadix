@@ -17,11 +17,13 @@ I enjoy building applications and interactive projects that are both functional 
 
 ## 🛠 Tech Stack
 
-**Frontend:** React · JavaScript (ES6+) · HTML5 · CSS3 · jQuery  
-**Backend:** Node.js · PHP · CodeIgniter · MySQL  
-**Tools:** Git · GitHub · VS Code · WordPress (Theming)
+**Frontend:** React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Bootstrap · jQuery  
+**Backend:** Node.js · PHP · CodeIgniter  
+**Databases:** Relational database design · MySQL  
+**Web Integration:** Responsive integration · UI implementation from mockups  
 **Game Dev:** Unity (C#)  
-**Design:** Figma · Photoshop · Illustrator  
+**Design:** Figma · Adobe Photoshop · Adobe Illustrator  
+**Tools:** Git · GitHub · VS Code · WordPress (Theming)
 
 ---
 
