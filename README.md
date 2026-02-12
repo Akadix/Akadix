@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Benjamin
 
 🎓 Third-year Multimedia & Internet Technologies student  
-💻 Web Development & Interactive Experiences  
+💻 Web Development · Front-End & Integration · Interactive Experiences  
 🔎 Looking for a **14-week internship (minimum)** starting March 2026  
 
 ---
@@ -32,10 +32,9 @@ I enjoy building applications and interactive projects that are both functional 
 An internship where I can:
 
 - Contribute to real-world projects
-- Improve clean architecture & best practices
+- Improve front-end architecture & integration best practices
 - Work within a collaborative development team
-- Continue growing as a fullstack developer
-
+- Continue growing as a web developer specialized in front-end and integration
 
 
 
